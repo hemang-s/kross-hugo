@@ -1,4 +1,4 @@
-baseURL = "http://www.hstest.com"
+baseURL = "http://hemang-test.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
